@@ -21,7 +21,7 @@ When 1 player wins the game, the button are not more functional but the new game
 
     - **Solution URL:** https://github.com/J-B-R-93/JavaScript-Pig-Game
 
-    - **Live Site URL:**
+    - **Live Site URL:** https://j-b-r-93.github.io/JavaScript-Pig-Game/
 
 ## Screenshot
 
